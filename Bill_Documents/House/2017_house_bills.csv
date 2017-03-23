@@ -1,0 +1,129 @@
+Roll Call,Majority,Congress Num,Legislation Number,Date,Time,Question,Description,Result,Republican Yes,Republican No,Republican Present,Republican Not Voting,Democrat Yes,Democrat No,Democrat Present,Democrat Not Voting,Independent Yes,Independent No,Independent Present,Independent Not Voting,Total Yes,Total No,Total Present,Total Not Voting
+1,R,115,QUORUM,3-Jan-2017,12:35 PM,Call by States,None,Passed,0,0,241,0,0,0,193,1,0,0,0,0,0,0,434,1
+2
+3,R,115,H RES 5,3-Jan-2017,3:04 PM,Table Motion to Refer,Adopting rules for the One Hundred Fifteenth Congress,Passed,228,0,0,12,0,184,0,9,0,0,0,0,228,184,0,21
+4,R,115,H RES 5,3-Jan-2017,4:58 PM,On Ordering the Previous Question,Adopting rules for the One Hundred Fifteenth Congress,Passed,237,0,0,3,0,193,0,0,0,0,0,0,237,193,0,3
+5,R,115,H RES 5,3-Jan-2017,5:16 PM,Motion to Commit,Adopting rules for the One Hundred Fifteenth Congress,Failed,0,236,0,4,193,0,0,0,0,0,0,0,193,236,0,4
+6,R,115,H RES 5,3-Jan-2017,5:34 PM,On Agreeing to the Resolution,Adopting rules for the One Hundred Fifteenth Congress,Passed,234,3,0,3,0,190,0,3,0,0,0,0,234,193,0,6
+7,R,115,H R 21,4-Jan-2017,4:38 PM,On Motion to Recommit with Instructions,Midnight Rules Relief Act of 2017,Failed,0,235,0,5,183,1,0,9,0,0,0,0,183,236,0,14
+8,R,115,H R 21,4-Jan-2017,4:48 PM,On Passage,Midnight Rules Relief Act of 2017,Passed,234,0,0,6,4,184,0,5,0,0,0,0,238,184,0,11
+9,R,115,H RES 22,5-Jan-2017,2:12 PM,On Ordering the Previous Question,"Providing for consideration of the bill (H.R. 26) Regulations from the Executive in Need of Scrutiny Act, and providing for consideration of the resolution (H.Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",Passed,234,1,0,5,1,187,0,5,0,0,0,0,235,188,0,10
+10,R,115,H RES 22,5-Jan-2017,2:30 PM,On Agreeing to the Resolution,"Providing for consideration of the bill (H.R. 26) Regulations from the Executive in Need of Scrutiny Act, and providing for consideration of the resolution (H.Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",Passed,231,1,0,8,0,186,0,7,0,0,0,0,231,187,0,15
+11,R,115,H RES 11,5-Jan-2017,7:05 PM,On Agreeing to the Resolution,"Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes",Passed,233,4,0,3,109,76,4,4,0,0,0,0,342,80,4,7
+12,R,115,H R 26,5-Jan-2017,7:14 PM,On Agreeing to the Amendment,None,Agreed to,234,0,0,6,1,185,0,7,0,0,0,0,235,185,0,13
+13,R,115,H R 26,5-Jan-2017,7:18 PM,On Agreeing to the Amendment,None,Failed,5,229,0,6,188,1,0,4,0,0,0,0,193,230,0,10
+14,R,115,H R 26,5-Jan-2017,7:21 PM,On Agreeing to the Amendment,None,Failed,2,232,0,6,188,1,0,4,0,0,0,0,190,233,0,10
+15,R,115,H R 26,5-Jan-2017,7:25 PM,On Agreeing to the Amendment,None,Failed,0,231,0,9,186,1,0,6,0,0,0,0,186,232,0,15
+16,R,115,H R 26,5-Jan-2017,7:28 PM,On Agreeing to the Amendment,None,Failed,3,231,0,6,189,0,0,4,0,0,0,0,192,231,0,10
+17,R,115,H R 26,5-Jan-2017,7:32 PM,On Agreeing to the Amendment,None,Failed,0,234,0,6,190,0,0,3,0,0,0,0,190,234,0,9
+18,R,115,H R 26,5-Jan-2017,7:36 PM,On Agreeing to the Amendment,None,Failed,5,230,0,5,189,1,0,3,0,0,0,0,194,231,0,8
+19,R,115,H R 26,5-Jan-2017,7:40 PM,On Agreeing to the Amendment,None,Failed,0,235,0,5,190,0,0,3,0,0,0,0,190,235,0,8
+20,R,115,H R 26,5-Jan-2017,7:44 PM,On Agreeing to the Amendment,None,Failed,3,232,0,5,190,0,0,3,0,0,0,0,193,232,0,8
+21,R,115,H R 26,5-Jan-2017,7:48 PM,On Agreeing to the Amendment,None,Agreed to,230,4,0,6,0,189,0,4,0,0,0,0,230,193,0,10
+22,R,115,H R 26,5-Jan-2017,8:05 PM,On Motion to Recommit with Instructions,Regulations from the Executive in Need of Scrutiny Act of 2017,Failed,0,235,0,5,190,0,0,3,0,0,0,0,190,235,0,8
+23,R,115,H R 26,5-Jan-2017,8:11 PM,On Passage,Regulations from the Executive in Need of Scrutiny Act of 2017,Passed,235,0,0,5,2,187,0,4,0,0,0,0,237,187,0,9
+24,R,115,H R 315,9-Jan-2017,6:53 PM,On Motion to Suspend the Rules and Pass,Improving Access to Maternity Care Act,Passed,227,0,0,13,178,0,0,15,0,0,0,0,405,0,0,28
+25,R,115,H R 304,9-Jan-2017,7:03 PM,On Motion to Suspend the Rules and Pass,Protecting Patient Access to Emergency Medications Act of 2017,Passed,225,0,0,15,179,0,0,14,0,0,0,0,404,0,0,29
+26,R,115,H RES 33,10-Jan-2017,1:46 PM,On Ordering the Previous Question,Providing for consideration of the bill (H.R. 5) Regulatory Accountability Act of 2017 and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law,Passed,233,0,0,7,1,179,0,14,0,0,0,0,234,179,0,21
+27,R,115,H RES 33,10-Jan-2017,1:57 PM,On Agreeing to the Resolution,Providing for consideration of the bill (H.R. 5) Regulatory Accountability Act of 2017 and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law,Passed,233,0,0,7,0,183,0,11,0,0,0,0,233,183,0,18
+28,R,115,JOURNAL,10-Jan-2017,2:05 PM,On Approving the Journal,None,Passed,155,77,1,7,93,85,2,14,0,0,0,0,248,162,3,21
+29,R,115,H R 79,10-Jan-2017,5:42 PM,On Agreeing to the Amendment,None,Failed,1,234,0,5,166,15,0,13,0,0,0,0,167,249,0,18
+30,R,115,H R 79,10-Jan-2017,5:47 PM,On Agreeing to the Amendment,None,Failed,0,236,0,4,163,17,0,14,0,0,0,0,163,253,0,18
+31,R,115,H R 79,10-Jan-2017,5:57 PM,On Passage,Helping Angels Lead Our Startups (HALOS) Act,Passed,236,0,0,4,108,73,0,13,0,0,0,0,344,73,0,17
+32,R,115,H RES 40,11-Jan-2017,1:32 PM,On Ordering the Previous Question,"Providing for consideration of H.R. 78, the SEC Regulatory Accountability Act; H.R. 238, the Commodity End-User Relief Act; and for other purposes",Passed,232,0,0,8,0,168,0,26,0,0,0,0,232,168,0,34
+33,R,115,H RES 40,11-Jan-2017,1:39 PM,On Agreeing to the Resolution,"Providing for consideration of H.R. 78, the SEC Regulatory Accountability Act; H.R. 238, the Commodity End-User Relief Act; and for other purposes",Passed,232,1,0,7,1,169,0,24,0,0,0,0,233,170,0,31
+34,R,115,H R 39,11-Jan-2017,1:46 PM,On Motion to Suspend the Rules and Pass,Tested Ability to Leverage Exceptional National Talent Act,Passed,217,17,0,6,169,0,0,25,0,0,0,0,386,17,0,31
+35,R,115,H R 5,11-Jan-2017,5:49 PM,On Agreeing to the Amendment,None,Agreed to,234,0,0,6,3,185,0,6,0,0,0,0,237,185,0,12
+36,R,115,H R 5,11-Jan-2017,5:55 PM,On Agreeing to the Amendment,None,Agreed to,226,7,0,7,34,154,0,6,0,0,0,0,260,161,0,13
+37,R,115,H R 5,11-Jan-2017,5:59 PM,On Agreeing to the Amendment,None,Failed,2,229,0,9,187,2,0,5,0,0,0,0,189,231,0,14
+38,R,115,H R 5,11-Jan-2017,6:02 PM,On Agreeing to the Amendment,None,Failed,1,232,0,7,189,0,0,5,0,0,0,0,190,232,0,12
+39,R,115,H R 5,11-Jan-2017,6:06 PM,On Agreeing to the Amendment,None,Failed,0,233,0,7,188,1,0,5,0,0,0,0,188,234,0,12
+40,R,115,H R 5,11-Jan-2017,6:11 PM,On Agreeing to the Amendment,None,Failed,2,232,0,6,188,1,0,5,0,0,0,0,190,233,0,11
+41,R,115,H R 5,11-Jan-2017,6:16 PM,On Agreeing to the Amendment,None,Failed,7,226,0,7,188,1,0,5,0,0,0,0,195,227,0,12
+42,R,115,H R 5,11-Jan-2017,6:20 PM,On Agreeing to the Amendment,None,Failed,0,234,0,6,188,1,0,5,0,0,0,0,188,235,0,11
+43,R,115,H R 5,11-Jan-2017,6:24 PM,On Agreeing to the Amendment,None,Failed,0,233,0,7,185,3,0,6,0,0,0,0,185,236,0,13
+44,R,115,H R 5,11-Jan-2017,6:39 PM,On Motion to Recommit with Instructions,Regulatory Accountability Act of 2017,Failed,0,233,0,7,190,0,0,4,0,0,0,0,190,233,0,11
+45,R,115,H R 5,11-Jan-2017,6:46 PM,On Passage,Regulatory Accountability Act of 2017,Passed,233,0,0,7,5,183,0,6,0,0,0,0,238,183,0,13
+46,R,115,H R 78,12-Jan-2017,4:35 PM,On Agreeing to the Amendment,None,Failed,1,233,0,6,191,0,0,3,0,0,0,0,192,233,0,9
+47,R,115,H R 78,12-Jan-2017,4:40 PM,On Agreeing to the Amendment,None,Failed,1,230,0,9,190,2,0,2,0,0,0,0,191,232,0,11
+48,R,115,H R 78,12-Jan-2017,4:46 PM,On Agreeing to the Amendment,None,Failed,2,233,0,5,192,0,0,2,0,0,0,0,194,233,0,7
+49,R,115,H R 78,12-Jan-2017,4:50 PM,On Agreeing to the Amendment,None,Failed,4,231,0,5,192,0,0,2,0,0,0,0,196,231,0,7
+50,R,115,H R 78,12-Jan-2017,5:06 PM,On Motion to Recommit with Instructions,SEC Regulatory Accountability Act,Failed,3,232,0,5,192,0,0,2,0,0,0,0,195,232,0,7
+51,R,115,H R 78,12-Jan-2017,5:12 PM,On Passage,SEC Regulatory Accountability Act,Passed,234,1,0,5,9,183,0,2,0,0,0,0,243,184,0,7
+52,R,115,H R 238,12-Jan-2017,5:17 PM,On Agreeing to the Amendment,None,Agreed to,234,1,0,5,2,190,0,2,0,0,0,0,236,191,0,7
+53,R,115,H R 238,12-Jan-2017,5:34 PM,On Motion to Recommit with Instructions,Commodity End-User Relief Act,Failed,0,235,0,5,190,0,0,4,0,0,0,0,190,235,0,9
+54,R,115,H R 238,12-Jan-2017,5:40 PM,On Passage,Commodity End-User Relief Act,Passed,232,1,0,7,7,181,0,6,0,0,0,0,239,182,0,13
+55,R,115,H RES 48,13-Jan-2017,10:47 AM,On Ordering the Previous Question,"Providing for consideration of S.Con.Res 3, setting forth the congressional budget for the United States Government for fiscal year 2017 and for other purposes; and S. 84, to provide for an exception to a limitation against appointment of persons as Secretary of Defense within 7 years of relief from active duty",Passed,234,0,0,6,0,179,0,15,0,0,0,0,234,179,0,21
+56,R,115,H RES 48,13-Jan-2017,10:53 AM,On Agreeing to the Resolution,"Providing for consideration of S.Con.Res 3, setting forth the congressional budget for the United States Government for fiscal year 2017 and for other purposes; and S. 84, to provide for an exception to a limitation against appointment of persons as Secretary of Defense within 7 years of relief from active duty",Passed,235,0,0,5,0,188,0,6,0,0,0,0,235,188,0,11
+57,R,115,S CON RES 3,13-Jan-2017,3:24 PM,On Agreeing to the Amendment,None,Failed,0,235,0,5,149,37,0,8,0,0,0,0,149,272,0,13
+58,R,115,S CON RES 3,13-Jan-2017,3:31 PM,On Agreeing to the Resolution,Setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026,Passed,227,9,0,5,0,189,0,5,0,0,0,0,227,198,0,10
+59,R,115,S 84,13-Jan-2017,3:37 PM,On Passage,To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces,Passed,232,1,0,7,36,150,1,7,0,0,0,0,268,151,1,14
+60,R,115,H R 423,23-Jan-2017,6:51 PM,On Motion to Suspend the Rules and Pass,Anti-Spoofing Act,Passed,224,5,0,11,174,0,0,20,0,0,0,0,398,5,0,31
+61,R,115,H R 582,23-Jan-2017,7:04 PM,On Motion to Suspend the Rules and Pass,Kari’s Law Act,Passed,229,0,0,11,179,0,0,15,0,0,0,0,408,0,0,26
+62,R,115,H RES 55,24-Jan-2017,2:04 PM,On Ordering the Previous Question,Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions,Passed,233,0,0,6,0,187,0,6,0,0,0,0,233,187,0,12
+63,R,115,H RES 55,24-Jan-2017,2:11 PM,On Agreeing to the Resolution,Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions,Passed,234,0,0,5,2,183,0,8,0,0,0,0,236,183,0,13
+64,R,115,H R 7,24-Jan-2017,4:40 PM,On Motion to Recommit with Instructions,To prohibit taxpayer funded abortions,Failed,0,235,0,4,187,0,0,6,0,0,0,0,187,235,0,10
+65,R,115,H R 7,24-Jan-2017,4:48 PM,On Passage,To prohibit taxpayer funded abortions,Passed,235,0,0,4,3,183,0,7,0,0,0,0,238,183,0,11
+66,R,115,H R 374,30-Jan-2017,6:50 PM,On Motion to Suspend the Rules and Pass,To remove the sunset provision of section 203 of Public Law 105-384 and for other purposes,Passed,228,0,0,11,160,0,0,33,0,0,0,0,388,0,0,44
+67,R,115,H R 538,30-Jan-2017,7:00 PM,"On Motion to Suspend the Rules and Pass, as Amended",Ocmulgee Mounds National Historical Park Boundary Revision Act of 2017,Passed,219,8,0,12,177,0,0,16,0,0,0,0,396,8,0,28
+68,R,115,H RES 70,31-Jan-2017,5:18 PM,On Ordering the Previous Question,"Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",Passed,235,0,0,4,1,183,0,9,0,0,0,0,236,183,0,13
+69,R,115,H RES 70,31-Jan-2017,5:25 PM,On Agreeing to the Resolution,"Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",Passed,236,0,0,3,0,186,0,7,0,0,0,0,236,186,0,10
+70,R,115,H RES 71,1-Feb-2017,1:46 PM,On Ordering the Previous Question,"Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of the rule submitted by the SSA relating to Implementation of the NICS Improvement Amendments Act of 2007",Passed,231,0,0,8,0,191,0,2,0,0,0,0,231,191,0,10
+71,R,115,H RES 71,1-Feb-2017,1:52 PM,On Agreeing to the Resolution,"Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of the rule submitted by the SSA relating to Implementation of the NICS Improvement Amendments Act of 2007",Passed,231,0,0,8,0,191,0,2,0,0,0,0,231,191,0,10
+72,R,115,H J RES 41,1-Feb-2017,4:43 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to “Disclosure of Payments by Resource Extraction Issuers”",Passed,230,4,0,5,5,183,0,5,0,0,0,0,235,187,0,10
+73,R,115,H J RES 38,1-Feb-2017,4:50 PM,On Passage,Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule,Passed,224,9,0,6,4,185,0,4,0,0,0,0,228,194,0,10
+74,R,115,H RES 74,2-Feb-2017,1:28 PM,On Ordering the Previous Question,"Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for consideration of H.J. Res. 37, disapproving the rule submitted by DOD, GSA, and NASA, relating to the Federal Acquisition Regulation",Passed,230,0,0,9,0,188,0,5,0,0,0,0,230,188,0,14
+75,R,115,H RES 74,2-Feb-2017,1:36 PM,On Agreeing to the Resolution,"Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for consideration of H.J. Res. 37, disapproving the rule submitted by DOD, GSA, and NASA, relating to the Federal Acquisition Regulation",Passed,232,0,0,7,0,190,0,3,0,0,0,0,232,190,0,10
+76,R,115,H J RES 37,2-Feb-2017,3:56 PM,On Passage,"Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation",Passed,233,1,0,5,3,186,0,4,0,0,0,0,236,187,0,9
+77,R,115,H J RES 40,2-Feb-2017,4:07 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007",Passed,229,2,0,8,6,178,0,9,0,0,0,0,235,180,0,17
+78,R,115,H J RES 36,3-Feb-2017,10:34 AM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to “Waste Prevention, Production Subject to Royalties, and Resource Conservation”",Passed,218,11,0,10,3,180,0,10,0,0,0,0,221,191,0,20
+79,R,115,H R 689,6-Feb-2017,6:51 PM,On Motion to Suspend the Rules and Pass,Bolts Ditch Access and Use Act,Passed,230,1,0,8,179,0,0,14,0,0,0,0,409,1,0,22
+80,R,115,H R 337,6-Feb-2017,6:58 PM,On Motion to Suspend the Rules and Pass,Black Hills National Cemetery Boundary Expansion Act,Passed,230,0,0,9,177,0,0,16,0,0,0,0,407,0,0,25
+81,R,115,H RES 91,7-Feb-2017,1:36 PM,On Ordering the Previous Question,"Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",Passed,234,0,0,5,0,187,0,6,0,0,0,0,234,187,0,11
+82,R,115,H RES 91,7-Feb-2017,1:43 PM,On Agreeing to the Resolution,"Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",Passed,233,0,0,6,0,186,0,7,0,0,0,0,233,186,0,13
+83,R,115,H J RES 44,7-Feb-2017,4:57 PM,On Passage,"Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976",Passed,230,4,0,5,4,182,0,7,0,0,0,0,234,186,0,12
+84,R,115,H J RES 57,7-Feb-2017,5:03 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965",Passed,234,1,0,4,0,189,0,4,0,0,0,0,234,190,0,8
+85,R,115,H J RES 58,7-Feb-2017,5:10 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues",Passed,235,0,0,4,5,181,0,7,0,0,0,0,240,181,0,11
+86,R,115,H R 244,13-Feb-2017,6:54 PM,"On Motion to Suspend the Rules and Pass, as Amended",HIRE Vets Act,Passed,229,1,0,8,180,0,0,13,0,0,0,0,409,1,0,21
+87,R,115,H R 974,13-Feb-2017,7:11 PM,On Motion to Suspend the Rules and Pass,BRAVE Act,Passed,227,0,0,11,180,0,0,13,0,0,0,0,407,0,0,24
+88,R,115,H RES 99,14-Feb-2017,2:40 PM,On Ordering the Previous Question,"Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applications",Passed,225,0,0,13,0,189,0,4,0,0,0,0,225,189,0,17
+89,R,115,H RES 99,14-Feb-2017,2:46 PM,On Agreeing to the Resolution,"Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applications",Passed,225,0,0,13,0,187,0,6,0,0,0,0,225,187,0,19
+90,R,115,H RES 116,14-Feb-2017,2:53 PM,On Ordering the Previous Question,Providing for consideration of H.J.Res. 66 and H.J.Res. 67,Passed,227,0,0,11,0,188,0,5,0,0,0,0,227,188,0,16
+91,R,115,H RES 116,14-Feb-2017,3:01 PM,On Agreeing to the Resolution,Providing for consideration of H.J.Res. 66 and H.J.Res. 67,Passed,227,0,0,11,0,188,0,5,0,0,0,0,227,188,0,16
+92,R,115,H R 428,14-Feb-2017,4:38 PM,On Passage,Red River Gradient Boundary Survey Act,Passed,235,0,0,3,15,171,0,7,0,0,0,0,250,171,0,10
+93,R,115,H RES 123,15-Feb-2017,1:18 PM,On Ordering the Previous Question,"Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",Passed,233,0,0,5,0,190,0,3,0,0,0,0,233,190,0,8
+94,R,115,H RES 123,15-Feb-2017,1:25 PM,On Agreeing to the Resolution,"Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",Passed,233,0,0,5,0,188,0,5,0,0,0,0,233,188,0,10
+95,R,115,H J RES 67,15-Feb-2017,4:53 PM,On Passage,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.,Passed,233,1,0,4,1,190,0,2,0,0,0,0,234,191,0,6
+96,R,115,H J RES 66,15-Feb-2017,5:02 PM,On Passage,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.,Passed,230,3,0,5,1,190,0,2,0,0,0,0,231,193,0,7
+97,R,115,H J RES 42,15-Feb-2017,5:10 PM,On Passage,Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants,Passed,232,1,0,5,4,188,0,1,0,0,0,0,236,189,0,6
+98,R,115,H J RES 69,16-Feb-2017,3:16 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to “Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska”",Passed,220,10,0,7,5,183,0,5,0,0,0,0,225,193,0,12
+99,R,115,H J RES 43,16-Feb-2017,3:27 PM,On Passage,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients",Passed,228,2,0,7,2,186,0,5,0,0,0,0,230,188,0,12
+100,R,115,H R 699,27-Feb-2017,6:52 PM,On Motion to Suspend the Rules and Pass,Mount Hood Cooper Spur Land Exchange Clarification Act,Passed,230,1,0,6,185,0,0,8,0,0,0,0,415,1,0,14
+101,R,115,MOTION,27-Feb-2017,7:27 PM,Table Appeal of the Ruling of the Chair,None,Passed,229,0,2,6,0,185,0,8,0,0,0,0,229,185,2,14
+102,R,115,H R 863,27-Feb-2017,7:34 PM,On Motion to Suspend the Rules and Pass,"To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes",Passed,185,42,0,10,184,0,0,9,0,0,0,0,369,42,0,19
+103,R,115,H RES 150,28-Feb-2017,2:11 PM,On Ordering the Previous Question,"Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",Passed,224,0,0,13,0,191,0,2,0,0,0,0,224,191,0,15
+104,R,115,H RES 150,28-Feb-2017,2:18 PM,On Agreeing to the Resolution,"Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",Passed,224,0,0,13,1,188,0,4,0,0,0,0,225,188,0,17
+105,R,115,H R 998,28-Feb-2017,4:11 PM,On Agreeing to the Amendment,None,Agreed to,156,75,0,6,192,0,0,1,0,0,0,0,348,75,0,7
+106,R,115,H R 998,28-Feb-2017,4:14 PM,On Agreeing to the Amendment,None,Failed,0,232,0,5,181,11,0,1,0,0,0,0,181,243,0,6
+107,R,115,H R 998,28-Feb-2017,4:18 PM,On Agreeing to the Amendment,None,Failed,1,231,0,5,188,3,0,2,0,0,0,0,189,234,0,7
+108,R,115,H R 998,28-Feb-2017,4:22 PM,On Agreeing to the Amendment,None,Failed,2,229,0,6,190,1,0,2,0,0,0,0,192,230,0,8
+109,R,115,H R 998,1-Mar-2017,2:19 PM,On Agreeing to the Amendment,None,Failed,0,234,0,2,191,1,0,1,0,0,0,0,191,235,0,3
+110,R,115,H R 998,1-Mar-2017,2:27 PM,On Agreeing to the Amendment,None,Failed,1,229,0,6,188,2,0,3,0,0,0,0,189,231,0,9
+111,R,115,H R 998,1-Mar-2017,2:32 PM,On Agreeing to the Amendment,None,Failed,6,229,0,1,191,0,0,2,0,0,0,0,197,229,0,3
+112,R,115,H R 998,1-Mar-2017,2:36 PM,On Agreeing to the Amendment,None,Failed,4,231,0,1,190,0,0,3,0,0,0,0,194,231,0,4
+113,R,115,H R 998,1-Mar-2017,3:00 PM,On Motion to Recommit with Instructions,SCRUB Act,Failed,0,235,0,1,190,0,0,3,0,0,0,0,190,235,0,4
+114,R,115,H R 998,1-Mar-2017,3:07 PM,On Passage,SCRUB Act,Passed,229,5,0,2,11,180,0,2,0,0,0,0,240,185,0,4
+115,R,115,H RES 156,1-Mar-2017,3:13 PM,On Ordering the Previous Question,"Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",Passed,233,0,0,3,0,189,0,4,0,0,0,0,233,189,0,7
+116,R,115,H RES 156,1-Mar-2017,3:20 PM,On Agreeing to the Resolution,"Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",Passed,233,0,0,3,1,180,0,12,0,0,0,0,234,180,0,15
+117,R,115,H R 1009,1-Mar-2017,5:48 PM,On Agreeing to the Amendment,None,Agreed to,232,0,0,4,33,158,0,2,0,0,0,0,265,158,0,6
+118,R,115,H R 1009,1-Mar-2017,5:53 PM,On Agreeing to the Amendment,None,Failed,1,232,0,3,187,2,0,4,0,0,0,0,188,234,0,7
+119,R,115,H R 1009,1-Mar-2017,6:11 PM,On Motion to Recommit with Instructions,"OIRA Insight, Reform, and Accountability Act",Failed,1,234,0,1,192,0,0,1,0,0,0,0,193,234,0,2
+120,R,115,H R 1009,1-Mar-2017,6:18 PM,On Passage,"OIRA Insight, Reform, and Accountability Act",Passed,234,0,0,2,7,184,0,2,0,0,0,0,241,184,0,4
+121,R,115,H J RES 83,1-Mar-2017,6:25 PM,On Passage,Disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”,Passed,227,6,0,3,4,185,0,4,0,0,0,0,231,191,0,7
+122,R,115,H R 1004,2-Mar-2017,10:38 AM,On Agreeing to the Amendment,None,Failed,0,231,0,5,180,3,0,10,0,0,0,0,180,234,0,15
+123,R,115,H R 1004,2-Mar-2017,10:43 AM,On Agreeing to the Amendment,None,Agreed to,224,1,0,11,39,144,0,10,0,0,0,0,263,145,0,21
+124,R,115,H R 1004,2-Mar-2017,10:50 AM,On Agreeing to the Amendment,None,Failed,5,227,0,4,184,5,0,4,0,0,0,0,189,232,0,8
+125,R,115,H R 1004,2-Mar-2017,11:07 AM,On Motion to Recommit with Instructions,Regulatory Integrity Act,Failed,1,231,0,4,188,1,0,4,0,0,0,0,189,232,0,8
+126,R,115,H R 1004,2-Mar-2017,11:14 AM,On Passage,Regulatory Integrity Act,Passed,231,1,0,4,15,175,0,3,0,0,0,0,246,176,0,7
+127,R,115,H R 1362,7-Mar-2017,6:56 PM,On Motion to Suspend the Rules and Pass,"To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",Passed,226,2,0,8,185,0,0,8,0,0,0,0,411,2,0,16
+128,R,115,MOTION,7-Mar-2017,7:29 PM,Table Appeal of the Ruling of the Chair,None,Passed,226,1,1,8,1,185,0,7,0,0,0,0,227,186,1,15
