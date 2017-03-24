@@ -4,6 +4,7 @@
 import numpy as np
 import csv
 import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 
 
 def houseDictPerYear(year):
@@ -87,7 +88,7 @@ def testPercentage(array, percentage):
 
 def houseGenerateLine():
     dict = {}
-    plt.axis([1989, 2018, 0, 100])
+    plt.axis([1989, 2022, 0, 100])
     for year in range(1990, 2018):
         temp = houseDictPerYear(year)
         partisan = temp['together']/temp['total']
@@ -102,13 +103,33 @@ def houseGenerateLine():
              'k', c='r', label="Vote on a >=95% Party Line (Bi-Partisan)")
     plt.plot(sorted(dict.keys()), [dict[x][2]*100 for x in sorted(dict.keys())],
              'k', c='b', label="All Other Votes (Not Extreme Agreement or Disagreement)")
-    plt.legend()
+    drawParties(plt)
+    plt.legend(bbox_to_anchor=(0.5, -0.1))
     plt.title("(Bi)Partisan Voting in the U.S. House from 1990-2017")
     plt.ylabel("Percentage of Total Votes in the House (0-100%)")
     plt.xlabel("Years (1990-2017)")
-    plt.grid(b=True, which='major', color='k')
     plt.show()
-    return dict
+
+def drawParties(plot):
+    with open("/Users/ShivamParikh/Development/partisan/Bill_Documents/majority.csv", 'r', errors = 'ignore') as f:
+        reader = csv.reader(f)
+        dataset = list(reader)
+    dataset = dataset[1:]
+    for row in dataset:
+        plot.gca().add_patch(patches.Rectangle((int(row[0]), 0), 1, 38,
+                                        alpha=0.4, facecolor=color(row[1])))
+        plot.gca().add_patch(patches.Rectangle((int(row[0]), 42), 1, 38,
+                                        alpha=0.4, facecolor=color(row[2])))
+        plot.gca().add_patch(patches.Rectangle((int(row[0]), 84), 1, 16,
+                                        alpha=0.4, facecolor=color(row[3])))
+
+def color(party):
+    if(party == 'D'):
+        return 'blue'
+    elif(party=='R'):
+        return 'red'
+    else:
+        return 'grey'
 
 def senateGenerateLine():
     dict = {}
@@ -128,6 +149,7 @@ def senateGenerateLine():
     plt.plot(sorted(dict.keys()), [dict[x][2]*100 for x in sorted(dict.keys())],
             'k', c='b', label="All Other Votes (Not Extreme Agreement or Disagreement)")
     plt.legend()
+    drawParties(plt)
     plt.title("(Bi)Partisan Voting in the U.S. Senate from 1990-2017")
     plt.ylabel("Percentage of Total Votes in the Senate (0-100%)")
     plt.xlabel("Years (1990-2017)")
