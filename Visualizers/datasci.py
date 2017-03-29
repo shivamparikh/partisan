@@ -1,8 +1,10 @@
+# RELOAD THIS WITH %load datasci.py EVERYTIME
+# %load datasci.py
 #Written by Shivam Parikh
 #Wednesday, March 8th, 2017
 
 import numpy as np
-import datascience
+from datascience import Table
 import csv
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
@@ -87,6 +89,37 @@ def testPercentage(array, percentage):
             return True
     return False
 
+def datasci():
+    cong_dict = [houseDictPerYear(y) for y in range(1990, 2018)]
+    sen_dict = [senateDictPerYear(y) for y in range(1990, 2018)]
+    house = Table().with_columns("Year", np.arange(1990, 2018),
+                                    "House Bi-Partisan", np.array([(x['100']+x['95'])*100/x['total'] for x in cong_dict]),
+                                    "House Non Partisan", np.array([x['nonpart']*100/x['total'] for x in cong_dict]),
+                                    "House Collaborative", np.array([x['together']*100/x['total'] for x in cong_dict]))
+    senate = Table().with_columns("Year", np.arange(1990, 2018),
+                                    "Senate Bi-Partisan", np.array([(x['100']+x['95'])*100/x['total'] for x in sen_dict]),
+                                    "Senate Non Partisan", np.array([x['nonpart']*100/x['total'] for x in sen_dict]),
+                                    "Senate Collaborative", np.array([x['together']*100/x['total'] for x in sen_dict]))
+    total = senate.join("Year", house)
+    #print(total)
+    #total.scatter("Year")
+    plt.axis([1989, 2020, 0, 100])
+    plt.plot(total.column("Year"), total.column("House Bi-Partisan"), 'k', c='g', label="House Bi-Partisan")
+    plt.plot(total.column("Year"), total.column("Senate Bi-Partisan"), 'k', c='y', label="Senate Bi-Partisan")
+#     plt.plot(total.column("Year"), total.column("House Non Partisan"), '*', c='g', label="House Non Partisan")
+#     plt.plot(total.column("Year"), total.column("Senate Non Partisan"), '*', c='y', label="Senate Non Partisan")
+#     plt.plot(total.column("Year"), total.column("House Collaborative"), '.', c='g', label="House Collaboration")
+#     plt.plot(total.column("Year"), total.column("Senate Collaborative"), '.', c='y', label="Senate Collaboration")
+    
+    drawParties(plt, "both")
+    #plt.legend(bbox_to_anchor=(0.5, -0.15))
+    plt.legend(loc=4)
+    plt.ylabel("Percentage of Total Votes")
+    plt.xlabel("Years (1990-2017)")
+    plt.savefig("data.png", dpi=400)
+    plt.show()
+    
+
 def houseGenerateLine():
     dict = {}
     plt.axis([1989, 2022, 0, 100])
@@ -111,7 +144,7 @@ def houseGenerateLine():
     plt.ylabel("Percentage of Total Votes in the House (0-100%)")
     plt.xlabel("Years (1990-2017)")
     plt.show()
-    plt.figure().savefig("house.png")
+    plt.savefig("house.png")
 
 
 def drawParties(plot, party="president"):
@@ -123,6 +156,13 @@ def drawParties(plot, party="president"):
         set = [3, 1, 2]
     elif(party == "senate"):
         set = [2, 1, 3]
+    elif(party == "both"):
+        for row in dataset:
+            plot.gca().add_patch(patches.Rectangle((int(row[0]), 0), 1, 48,
+                                            alpha=0.4, facecolor=color(row[2])))
+            plot.gca().add_patch(patches.Rectangle((int(row[0]), 52), 1, 48,
+                                            alpha=0.4, facecolor=color(row[1])))
+        return
     else:
         set = [1, 2, 3]
     for row in dataset:
@@ -158,11 +198,11 @@ def senateGenerateLine():
             'k', c='r', label="Vote on a >=95% Party Line (Bi-Partisan)")
     plt.plot(sorted(dict.keys()), [dict[x][2]*100 for x in sorted(dict.keys())],
             'k', c='b', label="All Other Votes (Not Extreme Agreement or Disagreement)")
-    plt.legend()
+    plt.legend(loc=4)
     drawParties(plt, "senate")
     plt.title("(Bi)Partisan Voting in the U.S. Senate from 1990-2017")
     plt.ylabel("Percentage of Total Votes in the Senate (0-100%)")
     plt.xlabel("Years (1990-2017)")
     plt.grid(b=True, which='major', color='k')
+    plt.savefig("senate.png")
     plt.show()
-    plt.figure().savefig("senate.png")

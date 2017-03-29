@@ -127,3 +127,69 @@ Roll Call,Majority,Congress Num,Legislation Number,Date,Time,Question,Descriptio
 126,R,115,H R 1004,2-Mar-2017,11:14 AM,On Passage,Regulatory Integrity Act,Passed,231,1,0,4,15,175,0,3,0,0,0,0,246,176,0,7
 127,R,115,H R 1362,7-Mar-2017,6:56 PM,On Motion to Suspend the Rules and Pass,"To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",Passed,226,2,0,8,185,0,0,8,0,0,0,0,411,2,0,16
 128,R,115,MOTION,7-Mar-2017,7:29 PM,Table Appeal of the Ruling of the Chair,None,Passed,226,1,1,8,1,185,0,7,0,0,0,0,227,186,1,15
+129,R,115,H RES 175,8-Mar-2017,2:36 PM,On Ordering the Previous Question,"Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",Passed,230,1,0,5,0,183,0,10,0,0,0,0,230,184,0,15
+130,R,115,H RES 175,8-Mar-2017,2:44 PM,On Agreeing to the Resolution,"Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",Passed,234,0,0,2,1,185,0,7,0,0,0,0,235,185,0,9
+131,R,115,H RES 174,8-Mar-2017,2:51 PM,On Ordering the Previous Question,"Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",Passed,232,1,0,3,0,188,0,5,0,0,0,0,232,189,0,8
+132,R,115,ADJOURN,8-Mar-2017,3:09 PM,On Motion to Adjourn,None,Failed,0,234,1,1,127,61,0,5,0,0,0,0,127,295,1,6
+133,R,115,H RES 174,8-Mar-2017,3:16 PM,On Agreeing to the Resolution,"Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",Passed,228,3,0,5,5,182,0,6,0,0,0,0,233,185,0,11
+134,R,115,ADJOURN,8-Mar-2017,3:33 PM,On Motion to Adjourn,None,Failed,0,220,0,16,107,57,0,29,0,0,0,0,107,277,0,45
+135,R,115,ADJOURN,8-Mar-2017,4:56 PM,On Motion to Adjourn,None,Failed,1,226,0,9,113,64,0,16,0,0,0,0,114,290,0,25
+136,R,115,H R 1301,8-Mar-2017,5:19 PM,On Passage,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",Passed,230,5,0,1,141,43,0,9,0,0,0,0,371,48,0,10
+137,R,115,ADJOURN,8-Mar-2017,5:45 PM,On Motion to Adjourn,None,Passed,205,23,0,8,109,75,0,9,0,0,0,0,314,98,0,17
+138,R,115,H RES 180,9-Mar-2017,2:42 PM,On Ordering the Previous Question,"Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",Passed,233,0,0,3,0,186,0,7,0,0,0,0,233,186,0,10
+139,R,115,H RES 180,9-Mar-2017,2:51 PM,On Agreeing to the Resolution,"Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",Passed,233,0,0,3,0,184,0,9,0,0,0,0,233,184,0,12
+140,R,115,H R 985,9-Mar-2017,6:07 PM,On Agreeing to the Amendment,None,Failed,4,227,0,5,178,0,0,15,0,0,0,0,182,227,0,20
+141,R,115,H R 985,9-Mar-2017,6:11 PM,On Agreeing to the Amendment,None,Failed,6,227,0,3,183,1,0,9,0,0,0,0,189,228,0,12
+142,R,115,H R 985,9-Mar-2017,6:15 PM,On Agreeing to the Amendment,None,Failed,5,230,0,1,187,0,0,6,0,0,0,0,192,230,0,7
+143,R,115,H R 985,9-Mar-2017,6:18 PM,On Agreeing to the Amendment,None,Failed,4,230,0,2,186,0,0,7,0,0,0,0,190,230,0,9
+144,R,115,H R 985,9-Mar-2017,6:21 PM,On Agreeing to the Amendment,None,Failed,5,230,0,1,186,0,0,7,0,0,0,0,191,230,0,8
+145,R,115,H R 985,9-Mar-2017,6:25 PM,On Agreeing to the Amendment,None,Failed,6,229,0,1,187,0,0,6,0,0,0,0,193,229,0,7
+146,R,115,H R 985,9-Mar-2017,6:28 PM,On Agreeing to the Amendment,None,Failed,6,228,0,2,187,0,0,6,0,0,0,0,193,228,0,8
+147,R,115,H R 985,9-Mar-2017,6:46 PM,On Motion to Recommit with Instructions,Fairness in Class Action Litigation Act,Failed,1,234,0,1,187,0,0,6,0,0,0,0,188,234,0,7
+148,R,115,H R 985,9-Mar-2017,6:52 PM,On Passage,Fairness in Class Action Litigation Act,Passed,220,14,1,1,0,187,0,6,0,0,0,0,220,201,1,7
+149,R,115,H R 725,9-Mar-2017,6:59 PM,On Agreeing to the Amendment,None,Failed,3,232,0,1,186,1,0,6,0,0,0,0,189,233,0,7
+150,R,115,H R 725,9-Mar-2017,7:02 PM,On Agreeing to the Amendment,None,Failed,5,229,0,2,182,0,0,11,0,0,0,0,187,229,0,13
+151,R,115,H R 725,9-Mar-2017,7:14 PM,On Motion to Recommit with Instructions,Innocent Party Protection Act,Failed,1,233,0,2,186,0,0,7,0,0,0,0,187,233,0,9
+152,R,115,H R 725,9-Mar-2017,7:19 PM,On Passage,Innocent Party Protection Act,Passed,224,10,0,2,0,184,0,9,0,0,0,0,224,194,0,11
+153,R,115,H R 720,10-Mar-2017,10:49 AM,On Agreeing to the Amendment,None,Failed,3,224,0,9,178,1,0,14,0,0,0,0,181,225,0,23
+154,R,115,H R 720,10-Mar-2017,10:53 AM,On Agreeing to the Amendment,None,Failed,4,224,0,8,181,1,0,11,0,0,0,0,185,225,0,19
+155,R,115,H R 720,10-Mar-2017,10:58 AM,On Agreeing to the Amendment,None,Failed,5,227,0,4,185,0,0,8,0,0,0,0,190,227,0,12
+156,R,115,H R 720,10-Mar-2017,11:02 AM,On Agreeing to the Amendment,None,Failed,4,229,0,3,185,0,0,8,0,0,0,0,189,229,0,11
+157,R,115,H R 720,10-Mar-2017,11:18 AM,On Motion to Recommit with Instructions,Lawsuit Abuse Reduction Act,Failed,0,232,0,4,186,0,0,7,0,0,0,0,186,232,0,11
+158,R,115,H R 720,10-Mar-2017,11:29 AM,On Passage,Lawsuit Abuse Reduction Act,Passed,227,5,0,4,3,183,0,7,0,0,0,0,230,188,0,11
+159,R,115,H R 132,15-Mar-2017,6:57 PM,On Motion to Suspend the Rules and Pass,Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017,Passed,226,1,0,9,181,0,0,12,0,0,0,0,407,1,0,21
+160,R,115,H R 648,15-Mar-2017,7:03 PM,On Motion to Suspend the Rules and Pass,To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir,Passed,227,0,0,9,181,0,0,12,0,0,0,0,408,0,0,21
+161,R,115,MOTION,15-Mar-2017,7:47 PM,Table Appeal of the Ruling of the Chair,None,Passed,223,1,1,11,0,182,0,11,0,0,0,0,223,183,1,22
+162,R,115,H RES 198,16-Mar-2017,1:58 PM,On Ordering the Previous Question,"Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",Passed,227,1,0,8,0,184,0,9,0,0,0,0,227,185,0,17
+163,R,115,H RES 198,16-Mar-2017,2:06 PM,On Agreeing to the Resolution,"Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",Passed,229,0,0,7,0,187,0,6,0,0,0,0,229,187,0,13
+164,R,115,JOURNAL,16-Mar-2017,2:13 PM,On Approving the Journal,None,Passed,153,74,0,9,90,91,1,11,0,0,0,0,243,165,1,20
+165,R,115,H R 1259,16-Mar-2017,5:29 PM,On Agreeing to the Amendment,None,Failed,7,223,0,6,187,0,0,6,0,0,0,0,194,223,0,12
+166,R,115,H R 1259,16-Mar-2017,5:33 PM,On Agreeing to the Amendment,None,Failed,0,229,0,7,183,3,0,7,0,0,0,0,183,232,0,14
+167,R,115,H R 1259,16-Mar-2017,5:51 PM,On Motion to Recommit with Instructions,VA Accountability First Act,Failed,2,229,0,5,187,0,0,6,0,0,0,0,189,229,0,11
+168,R,115,H R 1259,16-Mar-2017,5:58 PM,On Passage,VA Accountability First Act,Passed,227,3,0,6,10,175,0,8,0,0,0,0,237,178,0,14
+169,R,115,H R 1181,16-Mar-2017,6:05 PM,On Passage,Veterans 2nd Amendment Protection Act,Passed,228,2,0,6,12,173,0,8,0,0,0,0,240,175,0,14
+170,R,115,H R 1367,17-Mar-2017,11:28 AM,On Agreeing to the Amendment,None,Agreed to,225,8,0,3,175,0,0,18,0,0,0,0,400,8,0,21
+171,R,115,H R 1367,17-Mar-2017,11:36 AM,On Passage,"To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes",Passed,232,0,0,4,180,0,0,13,0,0,0,0,412,0,0,17
+172,R,115,JOURNAL,17-Mar-2017,11:44 AM,On Approving the Journal,None,Passed,137,76,1,22,109,67,1,16,0,0,0,0,246,143,2,38
+173,R,115,H R 1294,20-Mar-2017,6:51 PM,On Motion to Suspend the Rules and Pass,Reducing DHS Acquisition Cost Growth Act,Passed,227,0,0,9,181,0,0,12,0,0,0,0,408,0,0,21
+174,R,115,H R 1249,20-Mar-2017,7:06 PM,"On Motion to Suspend the Rules and Pass, as Amended",DHS Multiyear Acquisition Strategy Act of 2017,Passed,228,0,0,8,181,0,0,12,0,0,0,0,409,0,0,20
+175,R,115,H R 1252,20-Mar-2017,7:13 PM,"On Motion to Suspend the Rules and Pass, as Amended",DHS Acquisition Authorities Act of 2017,Passed,225,1,0,10,182,0,0,11,0,0,0,0,407,1,0,21
+176,R,115,H RES 209,21-Mar-2017,1:35 PM,On Ordering the Previous Question,Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.,Passed,231,1,0,4,0,184,0,9,0,0,0,0,231,185,0,13
+177,R,115,H RES 209,21-Mar-2017,1:42 PM,On Agreeing to the Resolution,Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.,Passed,233,0,0,3,1,182,0,10,0,0,0,0,234,182,0,13
+178,R,115,H R 1353,21-Mar-2017,1:49 PM,On Motion to Suspend the Rules and Pass,Transparency in Technological Acquisitions Act of 2017,Passed,233,0,0,3,181,2,0,10,0,0,0,0,414,2,0,13
+179,R,115,H RES 210,21-Mar-2017,4:37 PM,On Ordering the Previous Question,Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees,Passed,233,0,0,3,0,186,0,7,0,0,0,0,233,186,0,10
+180,R,115,H RES 210,21-Mar-2017,4:45 PM,On Agreeing to the Resolution,Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees,Passed,233,0,0,3,0,186,0,7,0,0,0,0,233,186,0,10
+181,R,115,H R 1297,21-Mar-2017,4:55 PM,On Motion to Suspend the Rules and Pass,Quadrennial Homeland Security Review Technical Corrections Act of 2017,Passed,232,0,0,4,183,0,0,10,0,0,0,0,415,0,0,14
+182,R,115,MOTION,22-Mar-2017,1:36 PM,Table Appeal of the Ruling of the Chair,None,Passed,230,1,1,4,0,188,0,5,0,0,0,0,230,189,1,9
+183,R,115,H R 372,22-Mar-2017,1:45 PM,On Motion to Recommit with Instructions,Competitive Health Insurance Reform Act of 2017,Failed,2,233,0,1,187,0,0,6,0,0,0,0,189,233,0,7
+184,R,115,H R 372,22-Mar-2017,1:52 PM,On Passage,Competitive Health Insurance Reform Act of 2017,Passed,235,0,0,1,181,7,0,5,0,0,0,0,416,7,0,6
+185,R,115,H R 1101,22-Mar-2017,3:30 PM,On Motion to Recommit with Instructions,Small Business Health Fairness Act,Failed,2,233,0,1,177,0,0,16,0,0,0,0,179,233,0,17
+186,R,115,H R 1101,22-Mar-2017,3:39 PM,On Passage,Small Business Health Fairness Act,Passed,232,0,0,4,4,175,0,14,0,0,0,0,236,175,0,18
+187,R,115,H R 1238,22-Mar-2017,3:47 PM,On Motion to Suspend the Rules and Pass,Securing our Agriculture and Food Act,Passed,229,6,0,1,177,0,0,16,0,0,0,0,406,6,0,17
+188,R,115,H RES 221,23-Mar-2017,8:44 PM,On Ordering the Previous Question,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",Passed,233,0,0,3,0,185,0,8,0,0,0,0,233,185,0,11
+189,R,115,H RES 221,23-Mar-2017,8:51 PM,On Agreeing to the Resolution,"Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules",Passed,227,4,0,5,0,185,0,8,0,0,0,0,227,189,0,13
+190,R,115,JOURNAL,23-Mar-2017,9:01 PM,On Approving the Journal,None,Passed,132,91,1,12,70,106,3,14,0,0,0,0,202,197,4,26
+191,R,115,H RES 228,24-Mar-2017,10:54 AM,On Ordering the Previous Question,"Providing for consideration of H.R. 1628, the American Health Care Act of 2017",Passed,236,0,0,0,0,186,0,7,0,0,0,0,236,186,0,7
+192,R,115,H RES 228,24-Mar-2017,11:02 AM,On Agreeing to the Resolution,"Providing for consideration of H.R. 1628, the American Health Care Act of 2017",Passed,230,6,0,0,0,188,0,5,0,0,0,0,230,194,0,5
+193,R,115,H R 1365,24-Mar-2017,11:11 AM,"On Motion to Suspend the Rules and Pass, as Amended",Department of Homeland Security Acquisition Innovation Act,Passed,236,0,0,0,188,0,0,5,0,0,0,0,424,0,0,5
+194,R,115,JOURNAL,24-Mar-2017,11:17 AM,On Approving the Journal,None,Passed,153,80,0,3,65,121,1,6,0,0,0,0,218,201,1,9
