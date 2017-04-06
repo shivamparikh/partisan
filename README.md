@@ -23,7 +23,7 @@ Next up is a graph displaying Partisan, Bipartisan, and Non Partisan voting in t
 ![alt text](./Visualizations/Senate_Final.png "Senate Partisan")
 
 
-###Disclaimers
+##Disclaimers
 The following data and graphical representations were created by Shivam Parikh in the span of January 26th, 2017 to April 2nd 2017. 
 The data used to generate these graphs and analysis were gethered from the government websites themselves, listed here: 
 1) http://clerk.house.gov/
