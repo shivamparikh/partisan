@@ -1,0 +1,12 @@
+Trying to run the senate crawler on senate files.
+Starting at time: 2020-08-01 23:13:30
+Finished all Senate files for Congress: 1151
+Storing table 1151_senate_bills.csv into csv file
+Finished all Senate files for Congress: 1152
+Storing table 1152_senate_bills.csv into csv file
+Finished all Senate files for Congress: 1161
+Storing table 1161_senate_bills.csv into csv file
+Finished all Senate files for Congress: 1162
+Storing table 1162_senate_bills.csv into csv file
+Finishing at time: 2020-08-01 23:22:10
+Finished Everything, closing file now.

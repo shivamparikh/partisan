@@ -1,0 +1,3 @@
+Trying to run the house crawler on house files.
+Starting at time: 2020-08-01 22:49:55
+Finished all House files for Year: 2017Finished all House files for Year: 2018Finished all House files for Year: 2019Finished all House files for Year: 2020

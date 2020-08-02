@@ -1,0 +1,4 @@
+*.zip
+Pipeline/HouseCSV/*.csv
+Pipeline/SenateCSV/*.csv
+Pipeline/majority.csv

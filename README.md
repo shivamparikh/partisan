@@ -17,13 +17,13 @@ Next is Bipartisan
 ![alt text](./Visualizations/Join_Final_Bipartisan.png "Bicameral Partisan")
 
 Next up is a graph displaying Partisan, Bipartisan, and Non Partisan voting in the U.S. House of Representatives. 
-![alt text](./Visualizations/HOR_Final.png "HoR Partisan")
+![alt text](./Visualizations/house_wide_2020.png "HoR Partisan")
 
 Next up is a graph displaying Partisan, Bipartisan, and Non Partisan voting in the U.S Senate. 
-![alt text](./Visualizations/Senate_Final.png "Senate Partisan")
+![alt text](./Visualizations/senate_wide_2020.png "Senate Partisan")
 
 
-##Disclaimers
+## Disclaimers
 The following data and graphical representations were created by Shivam Parikh in the span of January 26th, 2017 to April 2nd 2017. 
 The data used to generate these graphs and analysis were gethered from the government websites themselves, listed here: 
 1) http://clerk.house.gov/
